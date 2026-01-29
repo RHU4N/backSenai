@@ -14,6 +14,8 @@ public class TiposVar {
         short c = 1324;
         String oi = "Olá";
         String tchau = "Adeus";
+        int f =12;
+        System.out.println(f);
 
     }
 }

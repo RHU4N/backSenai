@@ -19,11 +19,14 @@ public class For {
                 IO.println("O número " + i + " é par");
             }
         }
+        //mostrar impares de 1 a 10
         for (int i = 1; i <= 10; i ++) {
             if (i % 2 != 0) {
                 IO.println("O número " + i + " é impar");
             }
         }
+
+        //mostrar impar ou par de um numeros escolhido
 //        while (true) {
 //            IO.println("Vc deseja encontrar os numeros pares(P) ou impares(i) no seu intervalo:");
 //            char op = sc.next().toLowerCase().charAt(0);
